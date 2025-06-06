@@ -1,10 +1,10 @@
-## Code Challenge 1 Phase 1
+# Code Challenge 1 Phase 1
 
-# Description
+## Description
 
 This is a student submission for the first Code Challenge assignment/ week 1 Code Challenge with the canvas title: SA.01: WK1: Code Challenge.
 
-# Project setup
+## Project setup
 
 The code challenge has three challenges:
 
@@ -14,7 +14,8 @@ The code challenge has three challenges:
 
 
 The submission within this repository is ordered into 3 folders each containing the solution to the challenge in a Javascript file.
-
-Author: Victor N. Mwatu.
+<br>
+<br>
+Author: Victor N. Mwatu.<br>
 License: This project was created as part of a course assignment and is not licensed for redistribution or commercial use.
 
