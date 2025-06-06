@@ -27,7 +27,8 @@ Enjoy your chai bora!
                      `);
     //if user did not input a number at the prompt at all or in digits
     } else {
-        console.log("You have not given a number, please make sure your input is a number in digits!");
+        alert("You have not given a number, please make sure your input is a number in digits!");
     }
 }
+//call the function to initiate execution
 calculateChaiIngredients();

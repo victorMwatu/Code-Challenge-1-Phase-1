@@ -25,9 +25,10 @@ Panda Pikipiki!
 
             `);
     }else {
-        console.log("Weka number bwana usiwache hivyo ama unaandika maneno mingi, digits please!");
+        alert("Weka number bwana usiwache hivyo ama unaandika maneno mingi, digits please!");
     }
 
     
 }
+//call the function to initiate execution
 calculateBodafare();
