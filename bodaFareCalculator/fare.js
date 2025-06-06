@@ -5,7 +5,7 @@ function calculateBodafare() {
     let chargePerKm = 15;
 
     //ask user to give distance to travel
-    const distanceInKm = parseInt((prompt("Enter the distance of your trip in digits:")), 10);
+    const distanceInKm = parseInt((prompt("Unafika wapi Mkubwa? Kilometer ngapi?:")), 10);
 
     //calculate fare if distance given is a valid number in digits, and print fare
     if( !!distanceInKm === true ) {
